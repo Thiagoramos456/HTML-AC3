@@ -1,0 +1,21 @@
+.titulo{
+    color: red;
+    text-align: center;
+    text-decoration: underline
+}
+
+.negrito{
+    font-weight: bold;
+}
+
+.sublinhado{
+    text-decoration: underline;
+}
+
+.vermelho{
+    color: red;
+}
+
+.verde{
+    color:green;
+}
